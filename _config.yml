@@ -1,0 +1,21 @@
+title: "Alireza Irandoost"
+email: "your.email@example.com"
+description: "Electronic Engineer – Optoelectronics & Biophotonics"
+baseurl: ""
+url: "https://alireza-irandoost.github.io"
+theme: minimal-mistakes-jekyll
+
+author:
+  name: "Alireza Irandoost"
+  email: "your.email@example.com"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minimal_mistakes_skin: "default"
+
+header_pages:
+  - _pages/about.md
+  - _pages/cv.md
+  - _pages/projects.md
