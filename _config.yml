@@ -1,0 +1,34 @@
+title: "Alireza Irandoost"
+email: "you@example.com"  # ← replace with your real email
+description: >- 
+  I’m an Electronic Engineer with a passion for optoelectronics and biophotonics. 
+  I completed my master’s in Micro and Nanoelectronic Devices at Sharif University of Technology.
+url: "https://yourusername.github.io"  # ← replace with your GitHub username
+baseurl: "" 
+
+author:
+  name: "Alireza Irandoost"
+  email: "you@example.com"
+
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation bar links
+header_pages:
+  - _pages/about.md
+  - _pages/cv.md
+  - _pages/projects.md
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"  # ← replace
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"  # ← replace
